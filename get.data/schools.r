@@ -15,16 +15,16 @@ pss0708 <- read.spss("~/downloads/PSS0708_PU.sav")
 save(pss0708, file = "pss0708_pu.rda")
 
 pss0910 <- read.spss("~/downloads/PSS0910_PU.SAV")
-save(pss0910_pu, file = "pss0910_pu.rda")
+save(pss0910, file = "pss0910_pu.rda")
 
 pss1112 <- read.spss("~/downloads/pss1112_pu.sav")
-save(pss1112_pu, file = "pss1112_pu.rda")
+save(pss1112, file = "pss1112_pu.rda")
 
 pss1314 <- read.spss("~/downloads/pss1314_pu.sav")
-save(pss1314_pu, file = "pss1314_pu.rda")
+save(pss1314, file = "pss1314_pu.rda")
 
 pss1516 <- read.spss("~/downloads/pss1516_pu.sav")
-save(pss1516_pu, file = "pss1516_pu.rda")
+save(pss1516, file = "pss1516_pu.rda")
 
 
 # ==================================================================
